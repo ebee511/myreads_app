@@ -5,7 +5,7 @@ class Shelf extends Component {
 	render () {
 		return (
 			<div className="bookshelf">
-        <h2 className="bookshelf-title">{this.props.innerHTML + this.props.books.length}</h2>
+        <h2 className="bookshelf-title">{this.props.innerHTML}</h2>
         <div className="bookshelf-books">
           <ol className="books-grid">
           {

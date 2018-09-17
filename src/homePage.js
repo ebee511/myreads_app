@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Shelf from './Shelf.js'
-import Book from './book'
 import { Link } from 'react-router-dom'
 
 class HomePage extends Component {

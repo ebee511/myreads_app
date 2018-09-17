@@ -1,6 +1,5 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
-import { Link } from 'react-router-dom'
 import SearchPage from './SearchPage'
 import HomePage from './homePage'
 import * as BooksAPI from './BooksAPI'
