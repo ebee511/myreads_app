@@ -10,9 +10,6 @@ This is a React and Node.js web-based application that allows users to search fo
 * [Dependencies](#dependencies)
 * [Contributions](#contributions)
 
-* install all project dependencies with `npm install`
-* start the development server with `npm start`
-
 ## Project-Overview
 ---
 For the **MyReads** project, I began with starter files provided by Udacity that was created with [Create React App](https://github.com/facebookincubator/create-react-app). I added user interaction features such as being able to assign books to a certain shelf by selecting a reading status, search for and adding books, and moving books between shelves. 
@@ -25,7 +22,7 @@ There is a backend server that was provided with the starter files. The backend 
 
 1. Clone or download this repository from GitHub to your local machine.
 
-2. Using terminal or a command line, enter the folder directory that was cloned or downloaded and install all project dependencies with the command `npm install`. To start the backend server, run the command `npm start` and a new window will start up in your browser. In the event a new window does not appear, go to `http://localhost:3000` in your browser. 
+2. Using terminal or a command line, enter the folder directory that was cloned or downloaded and install all project dependencies with the command `npm install`. To start the server, run the command `npm start` and a new window will start up in your browser. In the event a new window does not appear, go to `http://localhost:3000` in your browser. 
 
 3. With the app running, you should see 3 shelves on the homepage with books on it. There will be a green circle with a white arrow on the bottom right of each book. If you click the circle, a dropdown menu will appear that allows you to classify and re-classify books between shelves. 
 
